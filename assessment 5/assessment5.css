@@ -1,0 +1,12 @@
+.logo{
+    width: 75px;
+    height: 70px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+body{
+    background-image: url(I1.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+

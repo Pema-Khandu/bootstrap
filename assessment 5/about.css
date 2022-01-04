@@ -1,0 +1,25 @@
+.logo{
+    width: 75px;
+    height: 70px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+
+.container{
+    width: 800px;
+    height:700px;
+
+}
+
+.img3{
+    width:800px;
+    height: 700px;
+}
+
+.nextnav{
+    margin-top:10px;
+}
+
+h1{
+    text-align:center;
+}
